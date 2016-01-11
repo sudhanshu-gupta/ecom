@@ -1,0 +1,2 @@
+/Users/sudhanshu.gupta/Documents/workspace/ecom/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/amigo/ecom/SplashActivity$override.class
+/Users/sudhanshu.gupta/Documents/workspace/ecom/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/build/gradle/internal/incremental/AppPatchesLoaderImpl.class

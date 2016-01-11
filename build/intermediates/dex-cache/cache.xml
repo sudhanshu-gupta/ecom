@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sudhanshu.gupta/Documents/workspace/ecom/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a71a06657bb2f92d8fe12d19908e72a307be87bf">
+        <dex dex="/Users/sudhanshu.gupta/Documents/workspace/ecom/app/build/intermediates/pre-dexed/debug/classes_7cdd5c2cdfed361550f86daef02f7c40ce865318.jar" />
+    </item>
+
+</items>
