@@ -5,11 +5,13 @@ package com.amigo.ecom;
  */
 public class Card {
     private String text;
+	private String backupText;
     private int imageLink;
     private String appLink;
 
     public Card(String text, int imageLink, String appLink) {
         this.text = text;
+		this.backupText = text;
         this.imageLink = imageLink;
         this.appLink = appLink;
     }
